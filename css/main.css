@@ -1,0 +1,20 @@
+#slide-bar{
+    background-color: #bd5d38;
+    width: 275px;
+    height: 100vh;
+}
+.nav-link{
+    color: #e1b6a5;
+}
+.nav-link:hover,
+.nav-link.active{
+    color: #ffff;
+}
+img{
+ max-width: 100%;
+ display: block;   
+}
+.image-profile{
+    border: 6px solid #ca7d60;
+    border-radius: 50%;
+}
